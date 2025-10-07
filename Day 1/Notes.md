@@ -13,7 +13,7 @@ It allows users to view, share, and interact with information and services via w
 | Purpose            | Provides static information                | Provides interactive functionality (dynamic information)             |
 | Example            | News site, portfolio, blogs                       | Gmail, Facebook, Online Banking                |
 | User Interaction   | Limited (mostly viewing)                   | High (users can input, interact, and get output) |
-| Technology         | Basic HTML, CSS, JS                        | Advanced frameworks, databases, APIs           |
+| Technology         | Basic HTML, CSS, JS                        | Advanced frameworks, databases, APIs.           |
 | Complexity         | Usually simpler                            | More complex, often requires authentication    |
 
 ---
